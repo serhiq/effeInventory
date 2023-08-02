@@ -1,0 +1,24 @@
+{
+  "uuid": "chlorhexidine_uuid",
+  "parentUuid": "store_uuid",
+  "barCodes": [
+    "2078020137962"
+  ],
+  "name": "Хлоргексидин",
+  "quantity": 1,
+  "tags": [
+  ],
+  "childUuids": [
+  ],
+  "imageUrls": [
+  ],
+  "docUrls": [
+  ],
+  "fields": [
+    {
+      "description": "Антисептическое средство",
+      "use_by_date": "20.08.2023"
+    }
+  ]
+}
+

@@ -1,0 +1,12 @@
+# Настройки приложения
+project:
+  name: Effe Inventory
+  serviceName: effe-inventory
+
+# Настройки базы данных MySQL
+database:
+  host: mysql
+  port: 3306
+  database_name: db_name
+  username: my_app_user
+  password: my_app_password

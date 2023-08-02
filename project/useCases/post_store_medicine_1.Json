@@ -1,0 +1,23 @@
+{
+  "uuid": "ibuclin_uuid",
+  "parentUuid": "store_uuid",
+  "barCodes": [
+    "978020137962"
+  ],
+  "name": "Ибуклин",
+  "quantity": 3,
+  "tags": [
+  ],
+  "childUuids": [
+  ],
+  "imageUrls": [
+  ],
+  "docUrls": [
+  ],
+  "fields": [
+    {
+      "description": "против жара 3-7лет",
+      "use_by_date": "20.08.2024"
+    }
+  ]
+}

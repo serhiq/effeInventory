@@ -1,0 +1,16 @@
+{
+  "uuid": "store_uuid",
+  "barCodes": [
+  ],
+  "name": "Аптечка/машина",
+  "quantity": 1,
+  "tags": [
+  ],
+  "childUuids": [
+  ],
+  "imageUrls": [
+  ],
+  "docUrls": [
+  ]
+}
+
